@@ -5,9 +5,9 @@
 - Perfecting my Cloud skills (especially in AWS, but also learning Docker)
 - Currently working on many projects, feel free to contribute 
 
-![](https://komarev.com/ghpvc/?username=svenskithesource)
+![](https://hit.yhype.me/github/profile?user_id=80784184)
 <!--
-**Svenskithesource/Svenskithesource** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**olsonperrensen/olsonperrensen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
