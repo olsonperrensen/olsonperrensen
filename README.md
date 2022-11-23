@@ -1,7 +1,13 @@
 ### Hi there 👋
 
+- Artificial Intelligence student
+- Web development 🤩
+- Perfecting my Cloud skills (especially in AWS, but also learning Docker)
+- Currently working on many projects, feel free to contribute 
+
+![](https://komarev.com/ghpvc/?username=svenskithesource)
 <!--
-**olsonperrensen/olsonperrensen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Svenskithesource/Svenskithesource** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
