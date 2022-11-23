@@ -5,7 +5,7 @@
 - Perfecting my Cloud skills (especially in AWS, but also learning Docker)
 - Currently working on many projects, feel free to contribute 
 
-![](https://hit.yhype.me/github/profile?user_id=80784184)
+![](https://komarev.com/ghpvc/?username=olsonperrensen)
 <!--
 **olsonperrensen/olsonperrensen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
