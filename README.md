@@ -2,8 +2,8 @@
 
 - Artificial Intelligence student
 - Web development 🤩
-- Perfecting my Cloud skills (AWS/Azure)
-- Learning Docker & Kubernetes
+- Perfecting my DS skills (NumPy/Pandas/Sklearn)
+- Learning Keras
 - Currently working on many projects, feel free to contribute 
 
 ![](https://komarev.com/ghpvc/?username=olsonperrensen)
